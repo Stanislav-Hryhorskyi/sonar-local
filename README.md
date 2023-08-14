@@ -1,5 +1,5 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![](https://github.com/Stanislav-Hryhorskyi/Pythonistasg/sonarqube/actions/workflows/python-app.yml/badge.svg)
+![](https://github.com/Stanislav-Hryhorskyi/sonarqube/actions/workflows/python-app.yml/badge.svg)
 
 # Flask Product API
 
