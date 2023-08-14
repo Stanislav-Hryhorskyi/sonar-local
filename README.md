@@ -1,4 +1,5 @@
-![](https://github.com/Stanislav-Hryhorskyi/Pythonistasg/sonarcube/actions/workflows/python-app.yml/badge.svg)
+![](https://github.com/Stanislav-Hryhorskyi/sonarcube/actions/workflows/python-app.yml/badge.svg)
+
 # Flask Product API
 
 This is a simple Flask API for managing product data. The API allows you to perform basic CRUD (Create, Read, Update, Delete) operations on products.
